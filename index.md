@@ -14,8 +14,6 @@ Speak Up lets people report civic issues and violations in their area. This poli
 - **Note (optional):** free text you can add to a report. On public reports it is shown to other app users with the report; on Bribery / misconduct reports it is visible only to administrators. Please do not include names or contact details.
   
 ## How reports are shown
-- **Public reports:** other app users can see the category, authority, area, time, status and vote count. The exact coordinates are saved with the post and can be read by other app users, for example through the map link when a post is shared.
-- **Private reports:** reports in the "Bribery / misconduct" category are stored separately, are not linked to your anonymous ID, and are visible only to app administrators. They are not shown in the feed.
 - **Public reports:** other app users can see the category, authority, area, note (if you add one), time, status and vote count. The exact coordinates are saved with the post and can be read by other app users, for example through the map link when a post is shared.
 - **Private reports:** reports in the "Bribery / misconduct" category are stored separately, are not linked to your anonymous ID, and are visible only to app administrators. This includes any note you add. They are not shown in the feed.
   
