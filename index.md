@@ -1,6 +1,6 @@
 # Speak Up – Privacy Policy
 
-**Effective:** 29 October 2026
+**Effective:** 2 November 2026
 **Contact:** speakupx0@gmail.com
 
 Speak Up lets people report civic issues and violations in their area. This policy explains what the app collects, how it is shown, and who can see it.
@@ -15,7 +15,7 @@ Speak Up lets people report civic issues and violations in their area. This poli
   
 ## How reports are shown
 - **Public reports:** other app users can see the category, authority, area, note (if you add one), time, status and vote count. The exact coordinates are saved with the post and can be read by other app users, for example through the map link when a post is shared.
-- **Private reports:** reports in the "Bribery / misconduct" category are stored separately, are not linked to your anonymous ID, and are visible only to app administrators. This includes any note you add. They are not shown in the feed.
+- **Note (optional):** free text you can add to a report. It is shown to other app users with the report. Please do not include names or contact details.
   
 ## Services we use
 - **Google Firebase** (Authentication and Cloud Firestore) stores the data above.
