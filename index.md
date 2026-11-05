@@ -1,20 +1,23 @@
 # Speak Up – Privacy Policy
 
-**Effective:** 3 November 2026
+**Effective:** 5 November 2026
 **Contact:** speakupx0@gmail.com
 
-Speak Up lets people report civic issues and violations in their area. This policy explains what the app collects, how it is shown, and who can see it.
+Speak Up helps people raise awareness of civic issues in their area and see which authority is responsible. It does not send anything to authorities. This policy explains what the app collects, how it is shown, and who can see it.
 
 ## What we collect
 - **Photo:** taken with your camera and processed on your device to blur faces and detect number plates. You review it before continuing. The photo is not uploaded to our servers.
-- **Location:** your device location, or the point you choose on the map, saved with a report.
-- **Report details:** category, authority, area name, time and status.
-- **Anonymous ID:** the app signs you in anonymously. A random ID is linked to your public reports, your "Me too" votes and the posts you report. We do not ask for your name, email or phone number.
+- **Location:** your device location, or the point you choose on the map, saved with a post.
+- **Post details:** category, authority, area name, time and status.
+- **Anonymous ID:** the app signs you in anonymously. A random ID is linked to your public posts, your "Me too" votes and the posts you report. We do not ask for your name, email or phone number.
 - **Feedback:** the type and message you send from the feedback screen. It is not linked to your anonymous ID.
-- **Note (optional):** free text you can add to a report. It is shown to other app users with the report. Please do not include names or contact details.
+- **Note (optional):** free text you can add to a post. It is shown to other app users with the post. Please do not include names or contact details.
 
-## How reports are shown
-- **Public reports:** other app users can see the category, authority, area, note (if you add one), time, status and vote count. The exact coordinates are saved with the post and can be read by other app users, for example through the map link when a post is shared.
+## How posts are shown
+- **Public posts:** other app users can see the category, authority, area, note (if you add one), time, status and vote count. The exact coordinates are saved with the post and can be read by other app users, for example through the map link when a post is shared.
+
+## Sharing
+When you tap Share, the post text (category, area, note, authority and a map link with the post's coordinates) is handed to the app you choose, such as WhatsApp or X. We do not control what that app does with it.
 
 ## Services we use
 - **Google Firebase** (Authentication and Cloud Firestore) stores the data above.
@@ -25,10 +28,10 @@ Speak Up lets people report civic issues and violations in their area. This poli
 We do not sell your data, and the app does not use advertising or analytics services.
 
 ## Keeping and deleting data
-Public reports stay until you delete them (post menu → Delete) or an administrator removes them. Because sign-in is anonymous, uninstalling the app or clearing its data removes your ability to delete your older posts. Email us with the report details and we will remove it.
+Public posts stay until you delete them (post menu → Delete) or an administrator removes them. Because sign-in is anonymous, uninstalling the app or clearing its data removes your ability to delete your older posts. Email us with the post details and we will remove it.
 
 ## Permissions
-The app asks for camera access to take report photos and location access to attach a location to reports.
+The app asks for camera access to take photos for your post and location access to attach a location to posts.
 
 ## Children
 Speak Up is not directed at children under 13.
