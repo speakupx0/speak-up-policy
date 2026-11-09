@@ -1,12 +1,12 @@
 # Speak Up – Privacy Policy
 
-**Effective:** 5 November 2026
+**Effective:** 9 November 2026
 **Contact:** speakupx0@gmail.com
 
 Speak Up helps people raise awareness of civic issues in their area and see which authority is responsible. It does not send anything to authorities. This policy explains what the app collects, how it is shown, and who can see it.
 
 ## What we collect
-- **Photo:** taken with your camera and processed on your device to blur faces and detect number plates. You review it before continuing. The photo is not uploaded to our servers.
+- **Photo:** taken with your camera and processed on your device to blur faces and detect number plates. You review it before continuing. The photo is not uploaded to our servers. If you choose to share the photo after posting, the blurred photo is handed to the app you pick, and a temporary copy stays in the app's private storage on your phone until the next share replaces it or you clear the app's data.
 - **Location:** your device location, or the point you choose on the map, saved with a post.
 - **Post details:** category, authority, area name, time and status.
 - **Anonymous ID:** the app signs you in anonymously. A random ID is linked to your public posts, your "Me too" votes and the posts you report. We do not ask for your name, email or phone number.
@@ -17,7 +17,7 @@ Speak Up helps people raise awareness of civic issues in their area and see whic
 - **Public posts:** other app users can see the category, authority, area, note (if you add one), time, status and vote count. The exact coordinates are saved with the post and can be read by other app users, for example through the map link when a post is shared.
 
 ## Sharing
-When you tap Share, the post text (category, area, note, authority and a map link with the post's coordinates) is handed to the app you choose, such as WhatsApp or X. We do not control what that app does with it.
+When you tap Share on a post, the post text (category, area, note, authority and a map link with the post's coordinates) is handed to the app you choose, such as WhatsApp or X. After you post, you can also choose to share your reviewed, blurred photo together with that text. We do not control what the receiving app does with what you share. Automatic blurring can miss faces and number plates, so check the photo before you share it.
 
 ## Services we use
 - **Google Firebase** (Authentication and Cloud Firestore) stores the data above.
